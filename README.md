@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kochurii
+- 👋 Hi, I’m @Shayanibanerjee
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning competitive programming
 - 💞️ I’m looking to learn more new languages also Developing 
