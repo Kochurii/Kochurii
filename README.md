@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kochurii
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning competitive programming
-- 💞️ I’m looking to more new languages
+- 💞️ I’m looking to learn more new languages also Developing 
 - 📫 How to reach me shayanibanerjee096@gmail.com
 
 
